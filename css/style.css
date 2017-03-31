@@ -9,12 +9,22 @@ body{
   background-color:#f4f4f4;
 }
 
-#logo{float:left;}
-.container{
+#logo
+{
+	float:left;
+}
+
+.container
+{
   width: 92%;
   margin:auto;
   overflow:hidden;
 }
+.side-bar-inner
+{
+	background-color:rgba(72,73,74,0.7);
+}
+
 
 
 ul{
