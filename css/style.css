@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ HEAD
 *{
 	margin: 0px;
 	padding: 0px;
@@ -206,7 +206,7 @@ article#main-col{
 {
 	visibility: visible;
 	opacity: 1;
-	transition: opacity 2s;	
+	transition: opacity 1s;	
 }
 .lightbox a
 {
