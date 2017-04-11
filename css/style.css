@@ -76,8 +76,8 @@ header #branding h1{
 }
 header nav{
   float: right;
-  margin-top: -27px;
-	margin-right: -1px;
+  margin-top: -20px;
+	margin-right: -5px;
 }
 header .highlight,header .current a{
   color: #e8491d;
@@ -89,7 +89,7 @@ header a:hover{
 }
 #showcase{
   min-height: 400px;
-  
+
   text-align: center;
   color:#ffffff;
 }
@@ -125,14 +125,13 @@ header a:hover{
   color:#ffffff;
   background: #35424a;
   margin-top: 10px;
-  opacity: 0.7;	
 }
 #newsletter h1{
   float: left;
 }
 #newsletter form{
   float: right;
-  margin-top: 20px;
+  margin-top: 15px;
 }
 #newsletter input[type="email"]{
   padding: 4px;
@@ -164,7 +163,7 @@ article#main-col{
   width: 65%;
 	margin-left: 35px;
 	list-style-type: none;
-	
+
 }
 
 
@@ -206,13 +205,13 @@ article#main-col{
 {
 	visibility: visible;
 	opacity: 1;
-	transition: opacity 1s;	
+	transition: opacity 1s;
 }
 .lightbox a
 {
 	text-decoration: none;
 	font-size: 20px;
-	color: grey; 
+	color: grey;
 }
 #outer
 {
@@ -356,7 +355,7 @@ header a:hover{
 }
 #showcase{
   min-height: 400px;
-  
+
   text-align: center;
   color:#ffffff;
 }
@@ -392,14 +391,13 @@ header a:hover{
   color:#ffffff;
   background: #35424a;
   margin-top: 10px;
-  opacity: 0.7;	
 }
 #newsletter h1{
   float: left;
 }
 #newsletter form{
   float: right;
-  margin-top: 20px;
+  margin-top: 10px;
 }
 #newsletter input[type="email"]{
   padding: 4px;
@@ -431,11 +429,8 @@ article#main-col{
   width: 65%;
 	margin-left: 35px;
 	list-style-type: none;
-	
+
 }
-
-
-
 #gallery
 {
 	border:1px solid red;
@@ -473,13 +468,13 @@ article#main-col{
 {
 	visibility: visible;
 	opacity: 1;
-	transition: opacity 2s;	
+	transition: opacity 2s;
 }
 .lightbox a
 {
 	text-decoration: none;
 	font-size: 20px;
-	color: grey; 
+	color: grey;
 }
 #outer
 {
